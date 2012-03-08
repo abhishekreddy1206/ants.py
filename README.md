@@ -1,6 +1,6 @@
 # ants.py
 
-This is my code for the [2011 Google AI Challenge](http://aichallenge.org/) in which I reimplemented an ants-protocol layer. This allowed solve the problem of friendly ants stepping on each other at a low-enough level that my bots' logic wouldn't need to address it.
+This is my entry for the [2011 Google AI Challenge](http://aichallenge.org/) in which I reimplemented the ants-protocol layer to solve the problem of friendly ants stepping on each other at a low level. In the end I made it to the 77th percentile.
 
 ## Usage
 
@@ -13,5 +13,6 @@ If you have the official [tools](http://aichallenge.org/using_the_tools.php) you
 
 ## More Info
 
-* [Read the report](https://docs.google.com/document/d/1MB0IAFvgE2BEx4_PUJ1wvHeEERwt_C9YSU4E4FY2gHA/edit) which details my bots' strategy and performance.
-* [Watch games](http://aichallenge.org/profile.php?user=2184) my bots played in the competition.
+* These bots were part of a [project](http://www.ccs.neu.edu/home/jaa/CS6140.11F/Homeworks/finalProject.html) for my Fall 2011 [machine learning class](http://www.ccs.neu.edu/home/jaa/CS6140.11F/).
+* I wrote [an report](https://docs.google.com/document/d/1MB0IAFvgE2BEx4_PUJ1wvHeEERwt_C9YSU4E4FY2gHA/edit) which explains how I attempted to adapt a hedge learner to the ants competition.
+* You can [watch games](http://aichallenge.org/profile.php?user=2184) my bots played in the competition.
