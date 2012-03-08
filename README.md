@@ -1,10 +1,10 @@
 # ants.py
 
-This is my code for the [2011 Google AI Challenge](http://aichallenge.org/) in which I re-implemented the ants protocol layer. This allowed solve the problem of friendly ants stepping on each other at a low-enough level that my bots' logic wouldn't need to address it.
+This is my code for the [2011 Google AI Challenge](http://aichallenge.org/) in which I reimplemented an ants-protocol layer. This allowed solve the problem of friendly ants stepping on each other at a low-enough level that my bots' logic wouldn't need to address it.
 
 ## Usage
 
-The ants-protocol implementation is in *protocol.py*, which is fed lines from stdin by *MyBot.py*. If you have the official [tools](http://aichallenge.org/using_the_tools.php) you can play a game with one of my bots via *MyBot.py* or one of the decider-specific _bot*.py_ files. 
+If you have the official [tools](http://aichallenge.org/using_the_tools.php) you can play a game with one of my bots via *MyBot.py* or one of the decider-specific _bot*.py_ files. 
 
 * ```$ python botBrownian.py``` moves each ant randomly. Since ants cannot step on eachother, they diffuse outward from the anthills.
 * ```$ python botNavigator.py``` assigns each idle ant to a goal. Ants' goals persist between turns, and unassigned ants diffuse randomly.
