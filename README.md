@@ -14,7 +14,7 @@ If you have the official [tools](http://aichallenge.org/using_the_tools.php) you
 ## More Info
 
 * These bots were part of a [project](http://www.ccs.neu.edu/home/jaa/CS6140.11F/Homeworks/finalProject.html) for my Fall 2011 [machine learning class](http://www.ccs.neu.edu/home/jaa/CS6140.11F/).
-* I wrote [an report](https://docs.google.com/document/d/1MB0IAFvgE2BEx4_PUJ1wvHeEERwt_C9YSU4E4FY2gHA/edit) which explains how I attempted to adapt a hedge learner to the ants competition.
+* I wrote [a report](https://docs.google.com/document/d/1MB0IAFvgE2BEx4_PUJ1wvHeEERwt_C9YSU4E4FY2gHA/edit) which explains how I attempted to adapt a hedge learner to the ants competition.
 * You can [watch games](http://aichallenge.org/profile.php?user=2184) my bots played in the competition.
 
 ---
